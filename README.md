@@ -1,6 +1,4 @@
-
-
-# Nwabueze Franklin & Asiwaju Ifeoluwa
+# Emmanuel Tofa Simple shell Project
 
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
@@ -46,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Nwabueze Franklin](https://github.com/NwabuezeFranklin) and [Asiwaju Ifeoluwa](https://github.com/Asiwajuife).
+All code written by [Emmanue; Tofa](https://github.com/uno36/simple_shell).
